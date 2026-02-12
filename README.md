@@ -5,14 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,java,kotlin,python,docker,kubernetes,linux,git,github,latex&theme=dark&perline=10" alt="Tech Stack"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,postgresql,firebase,obsidian,vim,bash,gradle,maven,arduino&theme=dark&perline=10" alt="Tech Stack 2"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,kotlin,go,rust,python,java,react,typescript,tailwind&theme=dark&perline=10" />
 </p>
 
 ---
