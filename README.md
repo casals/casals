@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gorilla-jukebox.vercel.app/api/now-playing" alt="Gorilla Jukebox" width="480"/>
+  <img src="https://casals-spotify-widget.vercel.app/" alt="Last Spotify activity" width="480"/>
 </p>
 
 ---
