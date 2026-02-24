@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://stereo.casals.dev/" alt="Last Spotify activity" width="480"/>
+  <img src="https://amp.casals.dev/" alt="Last Spotify activity" width="480"/>
 </p>
 
 ---
